@@ -1,0 +1,50 @@
+id,username,book_id,rating,comment
+0,paul,0,4,Beautiful. Great price.
+1,paul,1,3,Not so great
+2,paul,3,4,Good one
+3,paul,9,2,Readable
+4,paul,10,5,A treasure of books
+5,paul,8,4,"Impressive, but extremely expensive"
+6,john,0,2,Didnt like it
+7,john,1,4,Love it
+8,john,3,2,Not a big fan
+9,john,9,3,Could read this more often
+10,john,10,2,Sorry didnt like it
+11,john,7,4,Powerful and elegant. Masculine.
+12,mari,0,3,Okayish
+13,mari,1,2,Not a big fan
+14,mari,3,5,Loved it
+15,mari,4,5,Best book I ever read
+16,mari,8,3,Too strong words
+17,mari,2,4,Good one
+18,shane,0,4,It is good
+19,shane,1,2,I dont like it
+20,shane,3,1,I dont like this book
+21,shane,4,4,Very good book.
+22,shane,6,5,So good book
+23,shane,8,5,Awesome
+24,shane,2,3,Good
+25,carlos,0,4,Enjoyed it
+26,carlos,3,4,Thats a good one
+27,carlos,7,5,Wonderful
+28,carlos,8,3,Not bad
+29,carlos,2,5,A special one
+30,carlos,1,3,Enjoyable
+31,jade,0,4,This is very special book
+32,jade,10,5,Wow
+33,jade,3,5,"Hey, this is great stuff"
+34,jade,5,4,This is going to be in my memory for a very long time
+35,jade,2,5,Great
+36,jade,8,5,Awesome
+37,philip,0,4,Good one
+38,philip,2,5,Loved it
+39,philip,5,5,A big fan
+40,philip,8,4,God
+41,philip,6,5,A different book
+42,philip,4,5,Purity in Chablis in a great year
+43,prada,10,5,Awesome
+44,prada,6,4,Good one
+45,prada,0,4,I liked it
+46,prada,1,2,Not a fan
+47,prada,2,4,Liked it
+48,prada,8,5,Impresionante
